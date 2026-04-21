@@ -1129,3 +1129,21 @@ then download the key
  phir cmd open krna he udhr se jo command milega uuse run krna he
 
  same as EC2
+
+azure ml
+
+search azure ml
+create a workshop
+launch studio
+automated ml
+create a job
+select task
+create dataset
+name type tabular
+from localfiles
+on destination select next
+upload dataset
+just do next-next
+deploy the endpoint
+
+
